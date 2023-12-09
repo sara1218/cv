@@ -1,0 +1,89 @@
+
+h2{
+    margin: auto;
+}
+img{
+    width: 130px;
+    height: 130px;
+    float:right;
+    border: 3px solid black ;
+    
+}
+
+.image{
+    border: 25px solid rgba(52, 43, 130, 0.847);
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: 40px;
+    padding-right: 40px;
+    width: 600px;
+    height: 600px;
+    margin: auto; 
+    font-size: 20px;
+    background-color: azure;
+    
+}
+
+p{
+    font-family: serif;
+}
+.text2
+{  
+  margin-top: 20px;
+}
+h3{
+    margin: 0px;
+}
+#work{
+    margin: 0px;
+}
+#edu{
+    margin: 0px;
+}
+a{
+    text-decoration: none;
+    color:blue;
+}
+.link{
+    text-align: center;
+    margin-top: 20px;
+}
+.skills{
+    border: 25px solid rgba(52, 43, 130, 0.847);
+    background-color: azure;
+    padding: 40px;
+    height: 750px;
+    width: 600px;
+    margin: auto;
+    font-size: 20px;
+}
+h1{
+    margin: auto;
+}
+
+ol{
+    font-size: 20px;
+}
+.link2{
+    text-align: center;
+    margin-top: 15px;
+}
+.hobby{
+    margin: auto;
+    border: 25px solid rgba(52, 43, 130, 0.847);
+    background-color: azure;
+    width: 600px;
+    height: 680px;
+    padding: 40px;
+    font-size: 20px;
+}
+h4{
+    margin: 0px;
+}
+.contact{
+    text-align: right;
+}
+.link3{
+    text-align: center;
+    margin-top: 30px;
+}
